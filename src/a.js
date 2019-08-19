@@ -8,3 +8,7 @@ function printHi() {
     log('hi');
 }
 printHi();
+function printFine() {
+    log('i am fine');
+}
+printFine();
