@@ -1,0 +1,9 @@
+{
+  "name": "git-learning",
+  "version": "1.0.0",
+  "description": "学习git的使用方式",
+  "main": "index.js",
+  "author": "midf",
+  "license": "MIT",
+  "private": false
+}
