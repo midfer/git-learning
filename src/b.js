@@ -1,3 +1,3 @@
-function printNoHell() {
-    console.log('printNoHell');
+function printNoHello() {
+    console.log('printNoHello');
 }
